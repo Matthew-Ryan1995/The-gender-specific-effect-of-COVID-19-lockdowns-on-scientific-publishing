@@ -1,0 +1,7 @@
+# readMe
+
+This folder contains the data and code for the analysis in the paper 
+
+The gender-specific effect of COVID-19 lockdowns on scientific publishing productivity: impact and resilience
+
+This code was written in R using targets.  
